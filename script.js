@@ -10,15 +10,15 @@
      1. Decoupled Game Catalog & Runtime Schema Validation
      -------------------------------------------------------------------------- */
   const GAME_CATALOG = [
-    { id: "crossword",    name: "Crossword",   desc: "Daily mini puzzle",    url: "#crossword",   enabled: true,  icon: "grid" },
-    { id: "connections",  name: "Connections", desc: "Find groups of 4",     url: "#connections", enabled: true,  icon: "nodes" },
-    { id: "trivia",       name: "Trivia",      desc: "Knowledge test",       url: "#trivia",      enabled: true,  icon: "help" },
-    { id: "hangman",      name: "Hangman",     desc: "Guess the phrase",     url: "#hangman",     enabled: true,  icon: "text" },
-    { id: "specs",        name: "Match",       desc: "Pair identical cards", url: "#specs",       enabled: true,  icon: "check" },
-    { id: "memory",       name: "Memory",      desc: "Pattern recall",       url: "#memory",      enabled: true,  icon: "cards" },
-    { id: "spelling-bee", name: "Letters",     desc: "Form 4+ letter words", url: "#spelling",    enabled: true,  icon: "hex" },
-    { id: "wordle",       name: "Word Guess",  desc: "5-letter challenge",   url: "#wordle",      enabled: true,  icon: "rows" },
-    { id: "wordsearch",   name: "Wordsearch",  desc: "Find hidden words",    url: "#wordsearch",  enabled: true,  icon: "dice" }
+    { id: "crossword",    name: "Crossword",   desc: "Daily mini puzzle",    url: "https://tileworksgamesstudio.github.io/CannaGames-Crossword/",   enabled: true,  icon: "grid" },
+    { id: "connections",  name: "Connections", desc: "Find groups of 4",     url: "https://tileworksgamesstudio.github.io/CannaGames-Connections/", enabled: true,  icon: "nodes" },
+    { id: "trivia",       name: "Trivia",      desc: "Knowledge test",       url: "https://tileworksgamesstudio.github.io/CannaGames-Trivia/",      enabled: true,  icon: "help" },
+    { id: "hangman",      name: "Hangman",     desc: "Guess the phrase",     url: "https://tileworksgamesstudio.github.io/CannaGames-Hangman/",     enabled: true,  icon: "text" },
+    { id: "specs",        name: "Sequence",       desc: "Sort the Sequence", url: "https://tileworksgamesstudio.github.io/CannaGames-SpecsCards/",       enabled: true,  icon: "check" },
+    { id: "memory",       name: "Memory",      desc: "Pattern recall",       url: "https://tileworksgamesstudio.github.io/CannaGames-Memory/",      enabled: true,  icon: "cards" },
+    { id: "spelling-bee", name: "Letters",     desc: "Form 4+ letter words", url: "https://tileworksgamesstudio.github.io/CannaGames-SpellingBee/",    enabled: true,  icon: "hex" },
+    { id: "wordle",       name: "Wordle",  desc: "5-letter challenge",   url: "https://tileworksgamesstudio.github.io/CannaGames-Wordle/",      enabled: true,  icon: "rows" },
+    { id: "wordsearch",   name: "Wordsearch",  desc: "Find hidden words",    url: "https://tileworksgamesstudio.github.io/CannaGames-Wordsearch/",  enabled: true,  icon: "dice" }
   ];
 
   // Botanical line craft SVG icons
