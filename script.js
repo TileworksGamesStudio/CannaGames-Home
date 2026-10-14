@@ -14,7 +14,7 @@
     { id: "connections",  name: "Connections", desc: "Find groups of 4",     url: "https://tileworksgamesstudio.github.io/CannaGames-Connections/", enabled: true,  icon: "nodes" },
     { id: "trivia",       name: "Trivia",      desc: "Knowledge test",       url: "https://tileworksgamesstudio.github.io/CannaGames-Trivia/",      enabled: true,  icon: "help" },
     { id: "hangman",      name: "Hangman",     desc: "Guess the phrase",     url: "https://tileworksgamesstudio.github.io/CannaGames-Hangman/",     enabled: true,  icon: "text" },
-    { id: "specs",        name: "Sequence",       desc: "Sort the Sequence", url: "https://tileworksgamesstudio.github.io/CannaGames-SpecsCards/",       enabled: true,  icon: "check" },
+    { id: "specs",        name: "Sequence",       desc: "Sort the Sequence", url: "https://tileworksgamesstudio.github.io/CannaGames-SpecCards/",       enabled: true,  icon: "check" },
     { id: "memory",       name: "Memory",      desc: "Pattern recall",       url: "https://tileworksgamesstudio.github.io/CannaGames-Memory/",      enabled: true,  icon: "cards" },
     { id: "spelling-bee", name: "Letters",     desc: "Form 4+ letter words", url: "https://tileworksgamesstudio.github.io/CannaGames-SpellingBee/",    enabled: true,  icon: "hex" },
     { id: "wordle",       name: "Wordle",  desc: "5-letter challenge",   url: "https://tileworksgamesstudio.github.io/CannaGames-Wordle/",      enabled: true,  icon: "rows" },
